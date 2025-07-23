@@ -1,2 +1,9 @@
 # sisbid_test
-A test repository for SISBID!
+
+Git and GitHub are awesome!!
+
+This is how my code works...
+
+These files do xyz...
+
+The raw data is in this folder: ...
